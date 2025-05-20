@@ -21,7 +21,7 @@
 // //isi algoritma mu disini (AWAS KALO GA DI ISI!!!!)
 // ```
 
-let nama = "muss", peran = "Tabib";
+let nama = "", peran = "";
 
 if (nama === "") {
     console.log('nama wajib diisi');
